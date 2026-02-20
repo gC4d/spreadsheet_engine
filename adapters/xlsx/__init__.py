@@ -1,0 +1,1 @@
+"""XLSX adapter using openpyxl."""
